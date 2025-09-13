@@ -223,9 +223,6 @@ Se quiser, gero já um calculador automático (painel) onde você coloca: preço
 
 
 
-Quer que eu gere agora o painel interativo (HTML + JS) com: preço Brent live (fonte pública), conversões (US$, barris, tCO₂) e a calculadora de ROI por turbina (com campos editáveis)? Se sim, já monto e te devolvo o arquivo pronto para colar no seu site.
-
-
 ---
 
 Fontes principais citadas (para validação)
